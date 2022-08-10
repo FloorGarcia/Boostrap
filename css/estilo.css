@@ -1,0 +1,25 @@
+.carousel-item{
+    height: 370px;
+}
+body{
+    background-color: rgba(207, 243, 191, 0.87);
+}
+nav{
+    background-color: rgb(123, 134, 106);
+}
+
+.desarrollo{
+    font-size: large;
+    font-style: italic;
+    color: aliceblue;
+}
+.puntos{
+    background-color: aliceblue;
+    color: rgb(123, 134, 106);
+}
+footer{
+    background-color: rgb(123, 134, 106);
+}
+.pagination{
+    padding-left: 38%;
+}
